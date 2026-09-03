@@ -352,3 +352,9 @@ Phân rã thành 5 tiến trình:
 - Hình ảnh giao diện.
 - Các sơ đồ.
 - Nội dung bổ sung.
+
+# Lưu ý
+- In 2 mặt 40 trang, nhớ ghi đóng góp để cho điểm kí tên nhưng chấm trên lớp thì phải cho xem sản phẩm, chia đều để không bị thiếu điểm 
+- dùng jira, trello và git 
+- Code yếu thì tìm devexpress
+
